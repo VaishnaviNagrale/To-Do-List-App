@@ -3,7 +3,7 @@
    <application
         android:label="to_do_app2"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/to_do_list_applogo">
         <activity
             android:name=".MainActivity"
             android:exported="true"
